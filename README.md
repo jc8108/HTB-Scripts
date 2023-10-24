@@ -13,3 +13,5 @@ Emdee five for life - this room gives you a string and wants the hash back for t
 Phonebook - login page with a XSS for a distraction in the URL, fuzzing login page shows the * wildcard allows logins
   - this script is over-coded, could have been done in a dirty and quick manner just to get flag
   - tries every character with and without wildcard until it finds username and password
+
+MAIDENLESS - forgot my password page that accepts the question, account name, and answer as POST parameters. 
